@@ -19,6 +19,8 @@ The goal for our team is to make an App that can **track a certain stuff** from 
 
 12/09 Maked the user stories and picked out the important things. Determined the basic function for the first verion of app, which is to track a tennis ball in video. Assigned the work to each team members.
 
+13/09 Finished the demo program of a simple operate in using OpenCV.
+
 15/09 Finished the Track_V0.1 as the first demo of the track program and basic gui.
 
 16/09 Track_V0.1.1 Fixed some bugs detacted by test program.
